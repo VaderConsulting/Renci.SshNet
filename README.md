@@ -21,6 +21,10 @@ VS 2012 C# (.NET 4.0) class library working copy of SSH.NET (Renci.SshNet 2013.4
 
 Open `Renci.SshNet.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2012, .NET Framework 4.0
+
 ## Attribution and provenance
 
 - **Assembly company:** Renci
