@@ -1,6 +1,6 @@
 # Renci.SshNet
 
-VS 2012 C# (.NET 4.0) class library working copy of SSH.NET (Renci.SshNet 2013.4.7) with `SshClient`, `SftpClient`, `ScpClient`, local/remote/dynamic port forwarding, and `NetConfClient`. Original project is Renci/SSH.NET (assembly company Renci, copyright © Renci 2013). Open `Renci.SshNet.sln`. This tree is a working copy of third-party source kept in Dave Robinson's Historical Dev archive.
+VS 2012 C# (.NET 4.0) class library working copy of SSH.NET (Renci.SshNet 2013.4.7) with `SshClient`, `SftpClient`, `ScpClient`, local/remote/dynamic port forwarding, and `NetConfClient`. Original project is Renci/SSH.NET (assembly company Renci, copyright © Renci 2013). Open `Renci.SshNet.sln`. This tree is a working copy of third-party source kept in my Historical Dev archive.
 
 **Source last updated:** 2015-06-20  
 **Language:** C#  
@@ -9,7 +9,7 @@ VS 2012 C# (.NET 4.0) class library working copy of SSH.NET (Renci.SshNet 2013.4
 
 ## What it is
 
-VS 2012 C# (.NET 4.0) class library working copy of SSH.NET (Renci.SshNet 2013.4.7) with `SshClient`, `SftpClient`, `ScpClient`, local/remote/dynamic port forwarding, and `NetConfClient`. Original project is Renci/SSH.NET (assembly company Renci, copyright © Renci 2013). Open `Renci.SshNet.sln`. This tree is a working copy of third-party source kept in Dave Robinson's Historical Dev archive.
+VS 2012 C# (.NET 4.0) class library working copy of SSH.NET (Renci.SshNet 2013.4.7) with `SshClient`, `SftpClient`, `ScpClient`, local/remote/dynamic port forwarding, and `NetConfClient`. Original project is Renci/SSH.NET (assembly company Renci, copyright © Renci 2013). Open `Renci.SshNet.sln`. This tree is a working copy of third-party source kept in my Historical Dev archive.
 
 ## Solution structure
 
