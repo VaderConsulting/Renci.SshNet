@@ -27,6 +27,8 @@ Open `Renci.SshNet.sln` in Visual Studio.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 - **Assembly company:** Renci
 - **Assembly copyright:** Copyright © Renci 2013
 
