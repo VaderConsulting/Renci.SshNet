@@ -10,5 +10,5 @@ This tree is **SSH.NET** (`Renci.SshNet` assembly 2013.4.7), not VaderConsulting
 - **Help:** Sandcastle Help File Builder output under `Documentation/Help` (Eric Woodruff)
 - **BigInteger:** comments credit Microsoft (`dlr@microsoft.com`) and Rodrigo Kumpera / Novell
 
-Do not treat this repository as Dave Robinson / VaderConsulting MIT-licensed original work.
+Do not treat this repository as Dave Robinson / Vader Consulting MIT-licensed original work.
 VaderConsulting/Dave Robinson did not author the third-party portions identified above.
